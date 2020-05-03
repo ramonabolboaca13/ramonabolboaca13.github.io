@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://ramonabolboaca13.github.io/"/>
-  <updated>2020-05-03T08:12:36.640Z</updated>
+  <updated>2020-05-03T14:57:03.597Z</updated>
   <id>http://ramonabolboaca13.github.io/</id>
   
   <author>
@@ -17,25 +17,29 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Home Page</title>
-    <link href="http://ramonabolboaca13.github.io/2020/05/02/hello-world/"/>
-    <id>http://ramonabolboaca13.github.io/2020/05/02/hello-world/</id>
-    <published>2020-05-02T13:30:01.483Z</published>
-    <updated>2020-05-03T08:12:36.640Z</updated>
+    <title>Introduction</title>
+    <link href="http://ramonabolboaca13.github.io/2020/05/03/Introduction/"/>
+    <id>http://ramonabolboaca13.github.io/2020/05/03/Introduction/</id>
+    <published>2020-05-03T13:54:54.000Z</published>
+    <updated>2020-05-03T14:57:03.597Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to my page. This site is under construction. </p>]]></content>
+    <content type="html"><![CDATA[<p>Hey there! </p><p>I will use this website to share any <strong>interesting</strong> ideas that pop into my mind and any experiences that might be <strong>useful</strong> for the readers (whoever they might be). </p><p>I will try to keep it as short as possible. </p><p>I will also add random photos in random places and random <strong>parrot-party thingies</strong> (until I get bored).</p><p><em>Let the journey begin.</em></p><img src="/2020/05/03/Introduction/partyparrot.gif" class="">]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;Welcome to my page. This site is under construction. &lt;/p&gt;
-
+        &lt;p&gt;Hey there! &lt;/p&gt;
+&lt;p&gt;I will use this website to share any &lt;strong&gt;interesting&lt;/strong&gt; ideas that pop into my mind and any experiences that
       
     
     </summary>
     
     
+      <category term="general" scheme="http://ramonabolboaca13.github.io/categories/general/"/>
+    
+    
+      <category term="introduction" scheme="http://ramonabolboaca13.github.io/tags/introduction/"/>
     
   </entry>
   
