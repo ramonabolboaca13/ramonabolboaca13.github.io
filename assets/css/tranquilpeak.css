@@ -251,7 +251,7 @@ blockquote {
       #about #about-card #about-btn-close:hover {
         color: #738691; }
     #about #about-card #about-card-picture {
-      margin-bottom: 15px; }
+      margin-bottom: 35px; }
     #about #about-card #about-card-name {
       margin-top: 0;
       margin-bottom: 20px; }
@@ -279,9 +279,10 @@ blockquote {
       width: calc(100% - 60px);
       padding: 0 30px; }
     #about #about-card #about-card-picture {
-      width: 90px;
-      height: 90px;
-      border-radius: 45px; }
+      width: 200px;
+      height: 200px;
+      border-radius: 100px;
+	  border: 1px solid #000;}
     #about #about-card #about-card-job {
       margin-bottom: 15px; } }
 
@@ -289,9 +290,10 @@ blockquote {
   #about #about-card {
     width: 80%; }
     #about #about-card #about-card-picture {
-      width: 110px;
-      height: 110px;
-      border-radius: 55px; }
+      width: 200px;
+      height: 200px;
+      border-radius: 100px; 
+	  border: 1px solid #000;}
     #about #about-card #about-card-job,
     #about #about-card #about-card-location {
       display: inline-block;
@@ -470,7 +472,7 @@ blockquote {
     cursor: pointer; }
   #header .header-right-picture {
     position: absolute;
-    top: 12.5px;
+    top: 2.5px;
     right: 20px;
     display: block;
     width: 30px;
@@ -478,9 +480,9 @@ blockquote {
     color: #88909a; }
     #header .header-right-picture .header-picture {
       display: block;
-      width: 30px;
-      height: 30px;
-      border-radius: 15px; }
+      width: 50px;
+      height: 50px;
+      border-radius: 25px; }
   #header .header-right-icon {
     position: absolute;
     top: 12.5px;
@@ -691,9 +693,10 @@ blockquote {
       padding-top: 40px;
       padding-bottom: 7.5px; }
       #sidebar[data-behavior="1"] .sidebar-profile .sidebar-profile-picture, #sidebar[data-behavior="2"] .sidebar-profile .sidebar-profile-picture, #sidebar[data-behavior="4"] .sidebar-profile .sidebar-profile-picture, #sidebar[data-behavior="5"] .sidebar-profile .sidebar-profile-picture {
-        width: 90px;
-        height: 90px;
-        border-radius: 90px;
+        width: 200px;
+        height: 200px;
+        border-radius: 200px;
+		border: 1px solid #FFF;
         margin-bottom: 5px; }
       #sidebar[data-behavior="1"] .sidebar-profile .sidebar-profile-name, #sidebar[data-behavior="2"] .sidebar-profile .sidebar-profile-name, #sidebar[data-behavior="4"] .sidebar-profile .sidebar-profile-name, #sidebar[data-behavior="5"] .sidebar-profile .sidebar-profile-name {
         font-size: 1.6rem; }
@@ -797,9 +800,10 @@ blockquote {
       padding-top: 40px;
       padding-bottom: 7.5px; }
       #sidebar[data-behavior="4"] .sidebar-profile .sidebar-profile-picture, #sidebar[data-behavior="5"] .sidebar-profile .sidebar-profile-picture {
-        width: 90px;
-        height: 90px;
-        border-radius: 90px;
+        width: 200px;
+        height: 200px;
+        border-radius: 200px;
+		border: 1px solid #FFF;
         margin-bottom: 5px; }
       #sidebar[data-behavior="4"] .sidebar-profile .sidebar-profile-name, #sidebar[data-behavior="5"] .sidebar-profile .sidebar-profile-name {
         font-size: 1.6rem; }
@@ -872,9 +876,10 @@ blockquote {
       padding-top: 40px;
       padding-bottom: 7.5px; }
       #sidebar[data-behavior="1"] .sidebar-profile .sidebar-profile-picture, #sidebar[data-behavior="2"] .sidebar-profile .sidebar-profile-picture {
-        width: 90px;
-        height: 90px;
-        border-radius: 90px;
+        width: 200px;
+        height: 200px;
+        border-radius: 200px;
+		border: 1px solid #FFF;
         margin-bottom: 5px; }
       #sidebar[data-behavior="1"] .sidebar-profile .sidebar-profile-name, #sidebar[data-behavior="2"] .sidebar-profile .sidebar-profile-name {
         font-size: 1.6rem; }
@@ -945,9 +950,10 @@ blockquote {
       padding-top: 40px;
       padding-bottom: 7.5px; }
       #sidebar[data-behavior="4"] .sidebar-profile .sidebar-profile-picture, #sidebar[data-behavior="5"] .sidebar-profile .sidebar-profile-picture {
-        width: 90px;
-        height: 90px;
-        border-radius: 90px;
+        width: 200px;
+        height: 200px;
+        border-radius: 200px;
+		border: 1px solid #FFF;
         margin-bottom: 5px; }
       #sidebar[data-behavior="4"] .sidebar-profile .sidebar-profile-name, #sidebar[data-behavior="5"] .sidebar-profile .sidebar-profile-name {
         font-size: 1.6rem; }
@@ -1029,9 +1035,10 @@ blockquote {
       padding-top: 0;
       padding-bottom: 7.5px; }
       #sidebar[data-behavior="1"] .sidebar-profile .sidebar-profile-picture {
-        width: 90px;
-        height: 90px;
-        border-radius: 90px;
+        width: 200px;
+        height: 200px;
+        border-radius: 200px;
+		border: 1px solid #FFF;
         margin-bottom: 5px; }
       #sidebar[data-behavior="1"] .sidebar-profile .sidebar-profile-bio,
       #sidebar[data-behavior="1"] .sidebar-profile .sidebar-profile-job,
@@ -1090,9 +1097,10 @@ blockquote {
       padding-top: 40px;
       padding-bottom: 7.5px; }
       #sidebar[data-behavior="2"] .sidebar-profile .sidebar-profile-picture {
-        width: 90px;
-        height: 90px;
-        border-radius: 90px;
+        width: 200px;
+        height: 200px;
+        border-radius: 200px;
+		border: 1px solid #FFF;
         margin-bottom: 5px; }
       #sidebar[data-behavior="2"] .sidebar-profile .sidebar-profile-name {
         font-size: 1.6rem; }
@@ -1172,9 +1180,10 @@ blockquote {
       padding-top: 0;
       padding-bottom: 7.5px; }
       #sidebar[data-behavior="4"] .sidebar-profile .sidebar-profile-picture {
-        width: 90px;
-        height: 90px;
-        border-radius: 90px;
+        width: 200px;
+        height: 200px;
+        border-radius: 200px;
+		border: 1px solid #FFF;
         margin-bottom: 5px; }
       #sidebar[data-behavior="4"] .sidebar-profile .sidebar-profile-bio,
       #sidebar[data-behavior="4"] .sidebar-profile .sidebar-profile-job,
@@ -1234,9 +1243,10 @@ blockquote {
       padding-top: 40px;
       padding-bottom: 7.5px; }
       #sidebar[data-behavior="5"] .sidebar-profile .sidebar-profile-picture {
-        width: 90px;
-        height: 90px;
-        border-radius: 90px;
+        width: 200px;
+        height: 200px;
+        border-radius: 200px;
+		border: 1px solid #FFF;
         margin-bottom: 5px; }
       #sidebar[data-behavior="5"] .sidebar-profile .sidebar-profile-name {
         font-size: 1.6rem; }
