@@ -658,10 +658,10 @@
             new Gitalk({
               clientID: 'f172a3df5b5015374430',
               clientSecret: '17f221f893971af96a447921c167353c2c100c99',
-              repo: 'blog-comments',
+              repo: 'comment',
               owner: 'ramonabolboaca13',
               admin: ['ramonabolboaca13'],
-              id: location.pathname,
+              id: window.location.pathname,
               ...{"language":"en","perPage":10,"distractionFreeMode":false,"enableHotKey":true,"pagerDirection":"first","createIssueManually":true}
             }).render('gitalk')
           })()
